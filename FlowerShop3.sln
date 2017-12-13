@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowerShop3", "FlowerShop3\FlowerShop3.csproj", "{184F8DB5-D727-44D2-9C12-E888041E334F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{184F8DB5-D727-44D2-9C12-E888041E334F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{184F8DB5-D727-44D2-9C12-E888041E334F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{184F8DB5-D727-44D2-9C12-E888041E334F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{184F8DB5-D727-44D2-9C12-E888041E334F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
